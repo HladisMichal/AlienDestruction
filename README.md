@@ -16,3 +16,7 @@ hra má jinší rozlišení podle velikosti monitoru takže se může stát že 
 * když je hráč moc vysoko střela letí (objeví se) moc vysoko takže letí z jiné pozice než je hráč
 * při podzemní částí se dá proskočit stropem
 * když ve skoku stisknu rychle po sobě klávesu W tak vyskočím moc vysoko
+* když je enemy moc blízko okraje obrazovky nejde sestřelit
+* každá střela může proleťet přes zem
+
+  ## 
