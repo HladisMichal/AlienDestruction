@@ -5,13 +5,13 @@
 * spustit aplikaci a hrát
 
 ## Ovládání
-pohybuje se pomocí kláves A + D do boku a skákání pomocí klávesy W 
-přes platformy se dá prolést dolů pomocí podržení klávesy S
-střelba je pomocí myši kdy stačí kliknout levým talčítkem a střela poletí tam kde byl v tu chvíli kurzor
+* pohybuje se pomocí kláves A + D do boku a skákání pomocí klávesy W 
+* přes platformy se dá prolést dolů pomocí podržení klávesy S
+* střelba je pomocí myši kdy stačí kliknout levým talčítkem a střela poletí tam kde byl v tu chvíli kurzor
 
 ## POZOR
-hra má stále ještě hodně chyb např.
-při přecházení mezi částmi mapy se často rozbije mechanika skákání
-když je hráč moc vysoko střela letí (objeví se) moc vysoko takže letí z jiné pozice než je hráč
-při podzemní částí se dá proskočit stropem
-když ve skoku stisknu rychle po sobě klávesu W tak vyskočím moc vysoko
+hra má stále ještě hodně chyb např.:
+* při přecházení mezi částmi mapy se často rozbije mechanika skákání
+* když je hráč moc vysoko střela letí (objeví se) moc vysoko takže letí z jiné pozice než je hráč
+* při podzemní částí se dá proskočit stropem
+* když ve skoku stisknu rychle po sobě klávesu W tak vyskočím moc vysoko
