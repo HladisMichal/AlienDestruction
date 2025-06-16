@@ -1,10 +1,10 @@
 # AlienDestruction
 
-##Stáhnutí a spuštění hry
+##táhnutí a spuštění hry
 *stáhnout aplikaci test.exe
 *spustit aplikaci a hrát
 
-##Ovládání
+#Ovládání
 pohybuje se pomocí kláves A + D do boku a skákání pomocí klávesy W 
 přes platformy se dá prolést dolů pomocí podržení klávesy S
 střelba je pomocí myši kdy stačí kliknout levým talčítkem a střela poletí tam kde byl v tu chvíli kurzor
