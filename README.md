@@ -10,7 +10,8 @@
 * střelba je pomocí myši kdy stačí kliknout levým talčítkem a střela poletí tam kde byl v tu chvíli kurzor
 
 ## POZOR
-hra má stále ještě hodně chyb např.:
+hra má jinší rozlišení podle velikosti monitoru takže se může stát že hra bude vypadat hůře/jinak než bylo zamýšleno/bylo s ní pracováno
+### hra má stále ještě hodně chyb např.:
 * při přecházení mezi částmi mapy se často rozbije mechanika skákání
 * když je hráč moc vysoko střela letí (objeví se) moc vysoko takže letí z jiné pozice než je hráč
 * při podzemní částí se dá proskočit stropem
