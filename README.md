@@ -9,6 +9,11 @@
 * přes platformy se dá prolést dolů pomocí podržení klávesy S
 * střelba je pomocí myši kdy stačí kliknout levým talčítkem a střela poletí tam kde byl v tu chvíli kurzor
 
+## Funkce hry
+
+* hra má postupně se stěžující obtížnost způsobenou tím že se postupně rychlost enemy střeli zrychluje
+* hra má náhodné generování mapy až na začátek, který je stejný. Generování je udělané pomocí částí map, které se na sebe náhodně napojují
+
 ## POZOR
 hra má jinší rozlišení podle velikosti monitoru takže se může stát že hra bude vypadat hůře/jinak než bylo zamýšleno/bylo s ní pracováno
 ### hra má stále ještě hodně chyb např.:
